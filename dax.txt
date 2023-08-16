@@ -1,0 +1,5 @@
+CALCULATE(
+    SUM(ns_invoice_append_credit_memo[Item List Amount]),
+   ns_invoice_append_credit_memo[Item List Item Name]  = "Program Management",
+   ns_invoice_append_credit_memo[Territory] = [NAME_HERE]
+)
