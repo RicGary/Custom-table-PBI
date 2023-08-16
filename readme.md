@@ -11,6 +11,10 @@
 
 <p align="center"><b>Figure:</b> <a href="https://www.youtube.com/watch?v=J4317R5BvsA&ab_channel=HowtoPowerBI">How to Build a Financial Report in Power BI</a></p>
 
+ <h3>
+    <b>🚧 This code isn't clean nor optimal, I just did something fast to don't spend much time doing the same thing over and over again. 🚧</b>
+</h3>
+
 <hr>
 
 <h2>
