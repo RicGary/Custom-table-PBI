@@ -5,7 +5,9 @@
 <a href="https://ericnaiber.com">Visit my site here!</a>
 </p>
 
-//
+<p align="center" >
+    <img src="img/custom table.png">
+</p>
 
 <p align="center"><b>Figure:</b> <a href="https://www.youtube.com/watch?v=J4317R5BvsA&ab_channel=HowtoPowerBI">How to Build a Financial Report in Power BI</a></p>
 
