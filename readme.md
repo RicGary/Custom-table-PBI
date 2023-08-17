@@ -39,7 +39,7 @@ Basically the scripts reads your template and your Dax code to create new script
     pip install -r [PATH]/requirements.txt
     ```
 
-* Install the tabular editor to your PBI, there is a free option and that's the one I'm using.
+* Install the tabular editor to your PBI, there is a free option and that's the one I'm using. <a href="https://github.com/TabularEditor/TabularEditor/releases/tag/2.19.0">DOWNLOAD HERE</a>
 
 <br>
  <h2>
